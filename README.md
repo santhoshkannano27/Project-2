@@ -109,3 +109,6 @@ blueprint-to-3d/
 - **Room detection**: flood-fill the non-wall (floor) area to find
   enclosed rooms, and use that to auto-place floor slabs per room or
   compute room areas.
+
+  ##prototype video
+  https://youtu.be/gru139WfzCo?si=nBRA72gkgu42QQ2A
